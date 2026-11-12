@@ -11,24 +11,41 @@ The designs were created to the following widths:
 
 ## Colors
 
-- Purple 100: hsl(254, 88%, 90%)
-- Purple 500: hsl(256, 67%, 59%)
+### Primary
 
-- Yellow 100: hsl(31, 66%, 93%)
-- Yellow 500: hsl(39, 100%, 71%)
+- Red 400: hsl(7, 99%, 70%)
+- Yellow 500: hsl(51, 100%, 49%)
+- Green 800 (graphic design text): hsl(167, 40%, 24%)
+- Blue 800 (photography text): hsl(198, 62%, 26%)
+- Green 500 (footer): hsl(167, 34%, 41%)
 
-- White: hsl(0, 0%, 100%)
-- Black: hsl(0, 0%, 7%)
+### Neutral
+
+- Grey 950: hsl(212, 27%, 19%)
+- Grey 600: hsl(213, 9%, 39%)
+- Grey 550: hsl(232, 10%, 55%)
+- Grey 400: hsl(210, 4%, 67%)
+- White: hsl(0, 100%, 100%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size (paragraph): 18px
+- Font size: 18px
 
 ### Font
 
-- Family: [DM Sans](https://fonts.google.com/specimen/DM+Sans)
-- Weights: 400, 500
+- Family: [Barlow](https://fonts.google.com/specimen/Barlow)
+- Weights: 600
+- Family: [Fraunces](https://fonts.google.com/specimen/Fraunces)
+- Weights: 700, 900
 
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a design system and tablet layout to help you build a more accurate solution faster.
+## Icons
+
+We provide the required social icons. But, if you prefer, you can use a font icon library. Some suggestions can be found below:
+
+- [Font Awesome](https://fontawesome.com)
+- [IcoMoon](https://icomoon.io)
+- [Ionicons](https://ionicons.com)
+
+> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
